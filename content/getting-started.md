@@ -54,3 +54,51 @@ hugo server --noHTTPCache
 
 ```
 
+## Hosting and deploying my site
+
+I'll use Github pages to host my site. Later i want to take a look in other hosting option such as Netlify, but since i use a static site it doesn't matter much where i host. 
+
+I created a new repository on github named hazalates/documentation
+
+I initialized the local directory as a Git repository. The initial branch us called main
+
+``` 
+//initialize local directory as Git repo branch main
+git init -b main 
+
+//add files to local repo
+git add .
+
+//commits changes and prepare for push
+git commit -m "First commit"
+
+//set new remote
+git remote add origin https://github.com/hazalates/documentation.git
+
+//verify remote
+git remote -v
+
+//push changes
+git push -u origin main
+
+```
+
+I ran into an error, because i added a MIT license to my repo when i created it on Github. To fix this i did the following:
+
+```
+
+//merge repository
+git config pull.rebase false
+
+//pull repository with unrelated history
+git pull origin main --allow-unrelated-histories
+
+```
+
+Next i want to automate the process using Github Actions.
+
+In my repository i went to Settings -> Pages
+
+I set source to GitHub Actions
+
+I created .github/workflows/hugo.yaml and copied [the YAML code](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
