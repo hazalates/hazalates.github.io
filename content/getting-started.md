@@ -102,3 +102,37 @@ In my repository i went to Settings -> Pages
 I set source to GitHub Actions
 
 I created .github/workflows/hugo.yaml and copied [the YAML code](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+``` 
+
+git add .
+
+git commit -m "Add actions"
+
+```
+
+I couldn't push because of the error "refusing to allow a Personal Access Token to create or update workflow"
+I fixed this with the following steps:
+
+Go to avatar -> Settings -> Developer settings -> Personal acces token -> Generate new token
+Select workflow
+Copy token key
+Go to Keychain Acces 
+select Github entry
+Change password to token key
+
+``` 
+
+git push -u origin main
+
+```
+
+Now i was able to push. 
+
+The site didn't came out as expected, because there are some specifics in naming a site on github pages. I renamed the repo in github to hazalates.github.io and then edited the origin URL. I also edited the base URL in my config.yaml
+
+```
+git remote set-url origin https://github.com/hazalates/hazalates.github.io.git
+
+``` 
+
