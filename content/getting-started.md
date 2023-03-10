@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 date: 2023-03-06T12:55:43+01:00
-draft: true
+draft: false
 tags: ['site']
 ---
 
@@ -136,3 +136,8 @@ git remote set-url origin https://github.com/hazalates/hazalates.github.io.git
 
 ``` 
 
+## Adding a table of content
+
+Since i clearly have no TOC yet: This part is under construction.
+
+![Under-construction](/under-construction.jpeg)
