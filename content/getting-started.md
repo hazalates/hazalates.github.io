@@ -3,6 +3,7 @@ title: "Getting Started"
 date: 2023-03-06T12:55:43+01:00
 draft: false
 tags: ['site']
+toc: true
 ---
 
 ## A new site with Hugo
@@ -28,7 +29,7 @@ This created the standard file directory for Hugo. Next i followed along with [t
 
 i changed the config.toml to a yaml file because i've worked with yaml before. I created this getting started page and served the site to take a look. 
 
-![getting-started](/getting-started.png)
+![getting-started](/images/getting-started/getting-started.png)
 
 It looks horrible but thats fine for now.
 
@@ -136,8 +137,8 @@ git remote set-url origin https://github.com/hazalates/hazalates.github.io.git
 
 ``` 
 
-## Adding a table of content
+## Adding a table of content and other stuff
 
-Since i clearly have no TOC yet: This part is under construction.
+My site is still very much under construction. I'll add more features soon.
 
-![Under-construction](/under-construction.jpeg)
+![Under-construction](/images/getting-started/under-construction.jpeg)

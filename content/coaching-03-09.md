@@ -2,6 +2,8 @@
 title: "Coaching"
 date: 2023-03-09T15:42:35+01:00
 draft: false
+tags: ['coaching']
+toc: true
 ---
 
 Todays coaching was a duo session with Juli and Wiam. I didn't had many questions to ask, because last week i focussed on finding a workplace (which i found!!) and building this website. Talking with Wiam was interesting since he is a filmmaker, and my project doesn't have much to do with film. But his storytelling perspective was an interesting view on how i should market my product. The branding of my idea is as important as the product itself, because i'm focust on a specific target audience. 
@@ -14,10 +16,10 @@ My target audience would much exist out of young higher educated people, probabl
 
 Wiam gave some good examples of companies with a smart marketing plan. Oatly is a perfect example of a brand focussed on my first target audience. With nice, clean graphics and feel-good information on their packages. When you buy oatly you'll feel better about your ecological footprint then when buying milk. Oatly also uses humor to communicate their message. 
 
-![Oatly](/oatly.png)
+![Oatly](/images/coaching0309/oatly.png)
 
 Another example is Pieter Pot. Same story as above, they communicate their vision in a clear way. 
 
-![PieterPot](/pieterpot.png)
+![PieterPot](/images/coaching0309/pieterpot.png)
 
-![Insta](/insta.jpg)
+![Insta](/images/coaching0309/insta.jpg)

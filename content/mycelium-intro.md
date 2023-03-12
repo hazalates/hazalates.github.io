@@ -2,6 +2,7 @@
 title: "Mycelium Intro"
 date: 2023-03-10T20:34:12+01:00
 draft: false
+tags: ['mycelium']
 ---
 
 Today i was able to join a mycelium introduction session at the biolab at HKU IBB. Mycelium is probably going to play a big role in my project, so it was nice to learn some of the basics and start working with it. 
@@ -26,7 +27,7 @@ One of my favorite inspirations is [grown.bio](https://www.grown.bio). They make
 
 We started with the practical stuff before diving into the theoretical part. Because i want to work with mycelium a lot it's a good idea to stock up on a nice supply. To make my starter culture i inoculated rye with an existing culture. 
 
-![Substrate](/mycelium-intro/mycelium1.jpeg)
+![Substrate](/images/mycelium-intro/mycelium1.jpeg)
 
 I did that with the following steps:
 
@@ -38,7 +39,7 @@ I did that with the following steps:
 
 I also prepared substrate for the mycelium to grow on. 
 
-![Substrate-recipe](/mycelium-intro/mycelium5.jpeg)
+![Substrate-recipe](/images/mycelium-intro/mycelium5.jpeg)
 
 1. Soak substrate (i used hennep fiber) for a night.
 2. Per 10 parts hennep add 2 parts of a nitrogen source (i used coffee for one bag, and oats for another) and 1 part calcium sulphate. Put this all in a bag (forgot the special name of the bag, will add later).
@@ -46,11 +47,11 @@ I also prepared substrate for the mycelium to grow on.
 4. Let the substrate mixture cool till at least 30 degrees before inoculating. Again, will continue on Monday.
 5. Label everything. 
 
-![Substrate-bags](/mycelium-intro/mycelium2.jpeg)
+![Substrate-bags](/images/mycelium-intro/mycelium2.jpeg)
 
 Bonus: my happy face when working @ the lab:
 
-![labface](/mycelium-intro/mycelium3.jpeg)
+![labface](/images/mycelium-intro/mycelium3.jpeg)
 
 ## Theoretical stuff
 
