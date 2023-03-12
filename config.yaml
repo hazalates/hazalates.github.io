@@ -1,8 +1,6 @@
 title: Hazal Ates
 baseURL: https://hazalates.github.io/
 
-theme: lugo
-
 markup:
   tableOfContents:
     endLevel: 3
