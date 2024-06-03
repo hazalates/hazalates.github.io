@@ -7,5 +7,6 @@
 # Compilation
 _site/
 .jekyll-cache
+.sass-cache
 Gemfile.lock
 _drafts
