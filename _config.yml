@@ -1,0 +1,23 @@
+
+livereload: true
+
+# user config
+email: "hazalates8@gmail.com"
+insta: "https://www.instagram.com/vuurinhetturks/"
+
+permalink: /:title:output_ext
+
+plugins:
+ - jekyll-sitemap
+ - jekyll-seo-tag
+
+defaults:
+- scope:
+   path: ""
+   type: "posts"
+  values:
+   layout: "post"
+- scope:
+   path: ""
+  values:
+   layout: "default"

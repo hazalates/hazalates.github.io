@@ -1,0 +1,22 @@
+---
+title: Projects
+---
+
+<h2> Projects </h2>
+<!-- Hier komt een overview van al mijn projecten, sorteerbaar op tags of categorieen. -->
+<br>
+<br>
+
+<div class="clearfix">
+
+    {% for post in site.posts %}
+    <div class="img-container">
+        <a href="{{ post.url }}">
+            <img src="{{ post.logo }}" alt="{{ post.title }}">
+        </a>
+        <div class="img-text">{{ post.title }}</div>
+    </div>
+    {% endfor %}
+
+</div>
+

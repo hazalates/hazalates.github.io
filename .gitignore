@@ -1,0 +1,8 @@
+# MacOS
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Compilation
+_site/
