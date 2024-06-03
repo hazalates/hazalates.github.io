@@ -2,6 +2,8 @@
 livereload: true
 
 # user config
+domain: hazalates.io
+url: https://hazalates.io
 email: "hazalates8@gmail.com"
 insta: "https://www.instagram.com/vuurinhetturks/"
 

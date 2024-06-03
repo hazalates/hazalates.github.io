@@ -6,3 +6,6 @@
 
 # Compilation
 _site/
+.jekyll-cache
+Gemfile.lock
+_drafts
